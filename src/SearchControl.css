@@ -1,0 +1,9 @@
+.leaflet-geosearch-result-list {
+    background-color: darkblue;
+  }
+  
+  .leaflet-geosearch-result-list li {
+    color: white;
+    font-weight: bold;
+  }
+  
